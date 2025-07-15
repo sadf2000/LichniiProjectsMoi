@@ -1,3 +1,4 @@
+// Здесь вайбкодил, но с помощью массивов сам делал музыку
 #include <stdio.h>
 #include <math.h>
 #include <stdint.h>

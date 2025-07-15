@@ -1,1 +1,3 @@
 # LichniiProjectsMoi
+
+Просто шаблонные проекты
